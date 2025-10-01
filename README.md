@@ -1,0 +1,3 @@
+# Team Calculator
+Simple calculator project for team-based Git workflow assignment.
+EOF
