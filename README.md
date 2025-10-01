@@ -2,5 +2,5 @@
 Simple calculator project for team-based Git workflow assignment.
 EOF
 -----------------
-#Contributors
+# Contributors
 -Aniket Mokashe
