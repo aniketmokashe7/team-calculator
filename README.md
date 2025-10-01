@@ -5,3 +5,5 @@ EOF
 # Contributors 
 - Aniket Mokashe
 - Harshal Sonje
+-----------------
+**Version:** 2.0.0
